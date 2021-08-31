@@ -1,2 +1,2 @@
 # git-example
-This is a new git repository
+This is some new text..
